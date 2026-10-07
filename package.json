@@ -1,0 +1,16 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Aarón Rodrigo Rodriguez Cruz <aaron.rodriguez.c@tecsup.edu.pe>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "dotenv": "^16.5.0",
+    "nodemon": "^3.1.10"
+  }
+}
